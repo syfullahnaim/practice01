@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+#first-section{
+    height: 600px;
+    background-color: rgb(235, 241, 146); 
+}
+.half-width{
+    width: 40%;
+    margin-left: 7%;
+    float: left;
+    padding-top: 50px;
+}
+.half-width h1{
+    font-weight: 700;
+    font-size: 50px;
+    color: blue;
+}
+.header{
+    color: yellowgreen;
+}
+.right-text{
+    margin-top: 100px;
+}
+.buy-now{
+    text-decoration: none;
+    background-color: green;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 10px;
+}
+.half-width p{
+    padding-bottom: 30px;
+}
+.second-section{
+    height: 700px;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+.one-third{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding: 10px;
+    
+    box-shadow: 5px 7px 40px gray ;
+    border-radius: 10px;
+    height: 65%;
+}
+.one-third img{
+    width: 50%;
+    padding-left: 70px;
+    padding-right: 100px;
+    height: 250px;
+    width: 200px;
+    background-color: gray;
+    background-size: cover;
+}
+.jacket{
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-size: 30px;
+}
+.one-third h2{
+    color: yellowgreen;
+}
+.subscribe{
+    width: 20%;
+    margin-left: 13%;
+    float: left;
+    padding-top: 20px;
+}
+.subscribe h1{
+    font-weight: 800;
+    font-size: 30px;
+}
+.subscribe p{
+    font-weight: 500;
+}
+.last-section{
+    height: 150px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+    box-shadow: 5px 7px 40px gray ;
+    border-radius: 30px;
+}
+.footer-section{
+    text-align: center;
+}
