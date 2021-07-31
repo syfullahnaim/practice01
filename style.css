@@ -29,6 +29,7 @@ body{
     padding: 10px 40px;
     color: white;
     border-radius: 10px;
+    margin-left: 10px;
 }
 .half-width p{
     padding-bottom: 30px;
@@ -44,7 +45,6 @@ body{
     float: left;
     margin-left: 5%;
     padding: 10px;
-    
     box-shadow: 5px 7px 40px gray ;
     border-radius: 10px;
     height: 65%;
@@ -55,16 +55,25 @@ body{
     padding-right: 100px;
     height: 250px;
     width: 200px;
-    background-color: gray;
-    background-size: cover;
+    
 }
 .jacket{
     margin-bottom: 40px;
     font-weight: 700;
     font-size: 30px;
 }
+.one-third h3{
+    padding-left: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    color: black;
+}
 .one-third h2{
     color: yellowgreen;
+    padding-left: 10px;
+}
+.one-third p{
+    padding-left: 10px;
 }
 .subscribe{
     width: 20%;
